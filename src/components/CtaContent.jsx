@@ -32,14 +32,14 @@ const CtaContent = ({ className = "" }) => {
         className="absolute top-[30px] left-[1250px] w-[159px] h-[184px] flex flex-col object-cover lgcustom:hidden"
         loading="lazy"
         alt="Illustrative image"
-        src="src/assests/image-216@2x.png" // Updated path
+        src="src/assets/image-216@2x.png" // Updated path
       />
       <div className="absolute top-[53px] left-[83.5px] w-[157px] h-[137px] flex flex-col items-start justify-start gap-0.5 lgcustom:hidden">
         <img
           className="self-stretch flex-1 relative max-w-full overflow-hidden max-h-full object-cover"
           loading="lazy"
           alt="Supporting image"
-          src="src/assests/image-219@2x.png" // Updated path
+          src="src/assets/image-219@2x.png" // Updated path
         />
         <div className="self-stretch flex flex-row items-start justify-start py-0 px-[25px]">
           <div className="h-[6px] flex-1 relative rounded-[50%] bg-skyblue mq450:h-[6px]" />

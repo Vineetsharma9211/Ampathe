@@ -55,27 +55,27 @@ const TestimonialCards = ({
               className="h-4 w-4 relative overflow-hidden shrink-0 min-h-[16px]"
               loading="lazy"
               alt=""
-              src="./src/assests/frame.svg"
+              src="./src/assets/frame.svg"
             />
             <img
               className="h-4 w-4 relative overflow-hidden shrink-0 min-h-[16px]"
               alt=""
-              src="./src/assests/frame-1.svg"
+              src="./src/assets/frame-1.svg"
             />
             <img
               className="h-4 w-4 relative overflow-hidden shrink-0 min-h-[16px]"
               alt=""
-              src="./src/assests/frame-2.svg"
+              src="./src/assets/frame-2.svg"
             />
             <img
               className="h-4 w-4 relative overflow-hidden shrink-0 min-h-[16px]"
               alt=""
-              src="./src/assests/frame.svg"
+              src="./src/assets/frame.svg"
             />
             <img
               className="h-4 w-4 relative overflow-hidden shrink-0 min-h-[16px]"
               alt=""
-              src="./src/assests/frame-1.svg"
+              src="./src/assets/frame-1.svg"
             />
           </div>
         </div>
