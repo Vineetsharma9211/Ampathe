@@ -14,7 +14,7 @@ const FrameComponent3 = ({ className = "" }) => {
           aGameChangerFor="“A Game-Changer for "
           mentalHealth="Mental Health!”"
           theAIChatIsIntuitiveAndEa="The AI chat is intuitive and easy to use. I got my mental health score instantly. I highly recommend this who needs to check the mental health fast and precise."
-          moreAuthorImages="./src/assets/ellipse-11@2x.png"
+          moreAuthorImages="/assets/ellipse-11@2x.png"
           priyaS="Priya S"
           className="flex-1"
         />
@@ -22,7 +22,7 @@ const FrameComponent3 = ({ className = "" }) => {
           aGameChangerFor="“Excellent Initiative and Easy "
           mentalHealth="to Use”"
           theAIChatIsIntuitiveAndEa="I love the tailored suggestions and the supportive community feature. Kudos to the team for a great initiative and a mind-blowing user experience throughout the process."
-          moreAuthorImages="./src/assets/ellipse-11-1@2x.png"
+          moreAuthorImages="/assets/ellipse-11-1@2x.png"
           priyaS="Priya, Delhi"
           propMinWidth="81px"
           className="flex-1"
@@ -41,7 +41,7 @@ const FrameComponent3 = ({ className = "" }) => {
               <img
                 className="h-[50px] w-[50px] relative rounded-[50%] object-cover"
                 alt=""
-                src="./src/assets/ellipse-11-2@2x.png"
+                src="/assets/ellipse-11-2@2x.png"
               />
               <div className="flex flex-col items-start justify-start gap-2">
                 <div className="relative font-semibold inline-block min-w-[113px]">
@@ -51,27 +51,27 @@ const FrameComponent3 = ({ className = "" }) => {
                   <img
                     className="h-4 w-4 relative overflow-hidden shrink-0 min-h-[16px]"
                     alt=""
-                    src="./src/assets/frame.svg"
+                    src="/assets/frame.svg"
                   />
                   <img
                     className="h-4 w-4 relative overflow-hidden shrink-0 min-h-[16px]"
                     alt=""
-                    src="./src/assets/frame-1.svg"
+                    src="/assets/frame-1.svg"
                   />
                   <img
                     className="h-4 w-4 relative overflow-hidden shrink-0 min-h-[16px]"
                     alt=""
-                    src="./src/assets/frame-2.svg"
+                    src="/assets/frame-2.svg"
                   />
                   <img
                     className="h-4 w-4 relative overflow-hidden shrink-0 min-h-[16px]"
                     alt=""
-                    src="./src/assets/frame.svg"
+                    src="/assets/frame.svg"
                   />
                   <img
                     className="h-4 w-4 relative overflow-hidden shrink-0 min-h-[16px]"
                     alt=""
-                    src="./src/assets/frame-1.svg"
+                    src="/assets/frame-1.svg"
                   />
                 </div>
               </div>

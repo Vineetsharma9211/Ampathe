@@ -57,28 +57,28 @@ const FooterContent = ({ className = "" }) => {
                 <img
                   className="h-5 w-5 relative overflow-hidden shrink-0"
                   alt="Facebook"
-                  src="./src/assets/frame-15.svg"  
+                  src="/assets/frame-15.svg"  
                 />
               </div>
               <div className="flex flex-row items-start justify-start">
                 <img
                   className="h-5 w-5 relative overflow-hidden shrink-0"
                   alt="Twitter"
-                  src="./src/assets/frame-16.svg"  
+                  src="/assets/frame-16.svg"  
                 />
               </div>
               <div className="flex flex-row items-start justify-start">
                 <img
                   className="h-5 w-5 relative overflow-hidden shrink-0"
                   alt="Instagram"
-                  src="./src/assets/frame-17.svg"  
+                  src="/assets/frame-17.svg"  
                 />
               </div>
               <div className="flex flex-row items-start justify-start">
                 <img
                   className="h-5 w-5 relative overflow-hidden shrink-0"
                   alt="LinkedIn"
-                  src="./src/assets/frame-18.svg"  
+                  src="/assets/frame-18.svg"  
                 />
               </div>
             </div>

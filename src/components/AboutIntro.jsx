@@ -79,43 +79,43 @@ const AboutIntro = ({ className = "" }) => {
         <img
           className="w-[652px] relative max-h-full object-cover max-w-full shrink-0 mq1425:flex-1"
           alt=""
-          src="./src/assets/61772removebgpreview-1@2x.png"
+          src="/assets/61772removebgpreview-1@2x.png"
         />
         <img
           className="h-3.5 w-3.5 absolute !m-[0] top-[240px] left-[1062px] z-[1]"
           loading="lazy"
           alt=""
-          src="./src/assets/group-1.svg"
+          src="/assets/group-1.svg"
         />
         <img
           className="h-3.5 w-3.5 absolute !m-[0] top-[179px] left-[1118px] z-[1]"
           loading="lazy"
           alt=""
-          src="./src/assets/group-1.svg"
+          src="/assets/group-1.svg"
         />
         <img
           className="h-3.5 w-3.5 absolute !m-[0] top-[254px] left-[925px] z-[1]"
           loading="lazy"
           alt=""
-          src="./src/assets/group-1.svg"
+          src="/assets/group-1.svg"
         />
         <img
           className="h-3.5 w-3.5 absolute !m-[0] top-[217px] left-[785px] z-[1]"
           loading="lazy"
           alt=""
-          src="./src/assets/group-1.svg"
+          src="/assets/group-1.svg"
         />
         <img
           className="h-3.5 w-3.5 absolute !m-[0] top-[141px] left-[1033px] z-[1]"
           loading="lazy"
           alt=""
-          src="./src/assets/group-1.svg"
+          src="/assets/group-1.svg"
         />
         <img
           className="h-3.5 w-3.5 absolute !m-[0] top-[88px] left-[897px] z-[1]"
           loading="lazy"
           alt=""
-          src="./src/assets/group-1.svg"
+          src="/assets/group-1.svg"
         />
       </div>
     </div>

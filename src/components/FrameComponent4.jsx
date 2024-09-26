@@ -19,7 +19,7 @@ const FrameComponent4 = ({ className = "" }) => {
             className="absolute top-[73px] left-[39px] w-56 h-[317px] object-cover z-[2] transform transition-transform duration-300 group-hover:scale-110 group-hover:rotate-3"
             loading="lazy"
             alt=""
-            src="./src/assets/image-225@2x.png"
+            src="/assets/image-225@2x.png"
           />
         </div>
         {/* Card 2 */}
@@ -32,7 +32,7 @@ const FrameComponent4 = ({ className = "" }) => {
             className="absolute bottom-[0px] left-[44px] w-[214px] h-[321px] object-cover z-[2] transform transition-transform duration-300 group-hover:scale-110 group-hover:rotate-3"
             loading="lazy"
             alt=""
-            src="./src/assets/image-222@2x.png"
+            src="/assets/image-222@2x.png"
           />
         </div>
         {/* Card 3 */}
@@ -46,7 +46,7 @@ const FrameComponent4 = ({ className = "" }) => {
               className="h-[312px] flex-1 relative max-w-full overflow-hidden object-cover z-[1] transform transition-transform duration-300 group-hover:scale-110 group-hover:rotate-3"
               loading="lazy"
               alt=""
-              src="./src/assets/image-224@2x.png"
+              src="/assets/image-224@2x.png"
             />
           </div>
         </div>
@@ -60,7 +60,7 @@ const FrameComponent4 = ({ className = "" }) => {
             className="absolute bottom-[0px] left-[26px] w-[250px] h-[326px] object-cover z-[2] transform transition-transform duration-300 group-hover:scale-110 group-hover:rotate-3"
             loading="lazy"
             alt=""
-            src="./src/assets/image-223@2x.png"
+            src="/assets/image-223@2x.png"
           />
         </div>
       </div>

@@ -5,21 +5,21 @@ const FeaturesGrid = ({ className = "" }) => {
   // Array of feature data with updated paths to the assets folder
   const features = [
     {
-      chatting5: "./src/assets/chatting5.svg",  // Updated path to assets folder
+      chatting5: "/assets/chatting5.svg",  // Updated path to assets folder
       aIChat: "AI Chat",
       quickMentalHealthCheck: "Quick Mental Health Check",
       answerFewQuestionsToGetAQ:
         "Answer a few questions to get a quick assessment of your mental health.",
     },
     {
-      chatting5: "./src/assets/doctor140-1.svg",  // Updated path to assets folder
+      chatting5: "/assets/doctor140-1.svg",  // Updated path to assets folder
       aIChat: "Booking Therapist",
       quickMentalHealthCheck: "Personalized Doctor Suggestions",
       answerFewQuestionsToGetAQ:
         "Get personalized therapist recommendations based on your results.",
     },
     {
-      chatting5: "./src/assets/diversity90.svg",  // Updated path to assets folder
+      chatting5: "/assets/diversity90.svg",  // Updated path to assets folder
       aIChat: "Community",
       quickMentalHealthCheck: "Explore and Connect",
       answerFewQuestionsToGetAQ:

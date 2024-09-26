@@ -37,7 +37,7 @@ const FrameComponent1 = ({ className = "" }) => {
         <img className="w-[566px] relative max-h-full object-cover max-w-full mq1425:flex-1"
           loading="lazy"
           alt="Mental Health Insights"
-          src="./src/assets/image-1@2x.png"
+          src="/assets/image-1@2x.png"
         />
       </div>
     </div>
