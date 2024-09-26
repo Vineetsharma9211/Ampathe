@@ -6,6 +6,7 @@ import {
   useLocation,
 } from "react-router-dom";
 import Ampathe from "./pages/Ampathe";
+import Form from "./components/Form";
 
 function App() {
   const action = useNavigationType();
