@@ -15,7 +15,7 @@ const FrameComponent3 = ({ className = "" }) => {
           mentalHealth="Mental Health!”"
           theAIChatIsIntuitiveAndEa="The AI chat is intuitive and easy to use. I got my mental health score instantly. I highly recommend this who needs to check the mental health fast and precise."
           moreAuthorImages="/assets/ellipse-11@2x.png"
-          priyaS="Priya S"
+          priyaS="Amit S"
           className="flex-1"
         />
         <TestimonialCards

@@ -3,27 +3,28 @@ import PropTypes from "prop-types";
 
 const FrameComponent2 = ({ className = "" }) => {
   const faqData = [
-    {
-      question: "How does the mental health assessment work?",
-      answer: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, cumque velit. Velit, ipsum, tempora sit et magni reprehenderit eius pariatur iusto sint nesciunt temporibus? Aperiam labore sequi molestias esse ipsam distinctio unde voluptatibus ratione?"
-    },
-    {
-      question: "Is my data secure?",
-      answer: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, cumque velit. Velit, ipsum, tempora sit et magni reprehenderit eius pariatur iusto sint nesciunt temporibus? Aperiam labore sequi molestias esse ipsam distinctio unde voluptatibus ratione?"
-    },
-    {
-      question: "How do I find a doctor through the app?",
-      answer: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, cumque velit. Velit, ipsum, tempora sit et magni reprehenderit eius pariatur iusto sint nesciunt temporibus? Aperiam labore sequi molestias esse ipsam distinctio unde voluptatibus ratione?"
-    },
-    {
-      question: "What kind of community support is available?",
-      answer: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, cumque velit. Velit, ipsum, tempora sit et magni reprehenderit eius pariatur iusto sint nesciunt temporibus? Aperiam labore sequi molestias esse ipsam distinctio unde voluptatibus ratione?"
-    },
-    {
-      question: "Is there a cost to use the app?",
-      answer: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, cumque velit. Velit, ipsum, tempora sit et magni reprehenderit eius pariatur iusto sint nesciunt temporibus? Aperiam labore sequi molestias esse ipsam distinctio unde voluptatibus ratione?"
-    }
-  ];
+  {
+    question: "How does the mental health assessment work?",
+    answer: "The mental health assessment typically involves an interview with a licensed professional and may include questionnaires. It evaluates your emotional, psychological, and social well-being, helping to identify areas where you might need support or treatment. After the assessment, recommendations are provided based on the findings."
+  },
+  {
+    question: "Is my data secure?",
+    answer: "Yes, your data is secure. We use industry-standard encryption and data protection protocols to ensure that your personal information remains confidential and is only shared with your consent or as required by law."
+  },
+  {
+    question: "How do I find a doctor through the app?",
+    answer: "You can find a doctor by using the search feature within the app. Simply enter your location and the type of healthcare professional you need, and you'll be presented with a list of available providers. You can view profiles, read reviews, and book appointments directly through the app."
+  },
+  {
+    question: "What kind of community support is available?",
+    answer: "Our app offers various community support options, including forums, support groups, and peer-to-peer counseling. You can connect with others who have similar experiences, share your thoughts, and receive support from a compassionate community."
+  },
+  {
+    question: "Is there a cost to use the app?",
+    answer: "The app is free to download and offers several features at no cost. However, some advanced features, such as therapy sessions or premium content, may require a subscription or one-time fee."
+  }
+];
+
 
   return (
     <div
